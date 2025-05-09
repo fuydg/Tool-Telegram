@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Tool Telegram</string>
+  <string name="app_name">工具电报</string>
 
   <!-- Action Strings -->
-  <string name="send_group_message">Send group message (Bot)</string>
-  <string name="send_community_message">Send community message (Bot)</string>
+  <string name="send_group_message">发送群消息（机器人）</string>
+  <string name="send_community_message">发送频道消息（机器人）</string>
 
   <!-- Labels -->
-  <string name="chat_id_label">Chat ID</string>
-  <string name="token_label">Bot Token</string>
-  <string name="message_label">Message</string>
-  <string name="send_label">Send</string>
-  <string name="topic_id_label">Topic ID</string>
-  <string name="image_url_label">Image URL</string>
-  <string name="settings_label">Settings</string>
-  <string name="appearance_label">Appearance</string>
-  <string name="use_monet_label">Use Dynamic Colors</string>
-  <string name="about_label">About</string>
-  <string name="libraries_label">Libraries</string>
-  <string name="use_high_contrast_label">Use High Contrast Theme</string>
+  <string name="chat_id_label">聊天 ID</string>
+  <string name="token_label">机器人令牌</string>
+  <string name="message_label">消息</string>
+  <string name="send_label">发送</string>
+  <string name="topic_id_label">话题 ID</string>
+  <string name="image_url_label">图片链接</string>
+  <string name="settings_label">设置</string>
+  <string name="appearance_label">外观</string>
+  <string name="use_monet_label">使用动态配色</string>
+  <string name="about_label">关于</string>
+  <string name="libraries_label">使用的库</string>
+  <string name="use_high_contrast_label">使用高对比主题</string>
 
   <!-- Descriptions -->
-  <string name="use_monet_description">Use Dynamic Colors in the app if available.</string>
-  <string name="use_high_contrast_description">Use pure black in dark mode.</string>
-  <string name="libraries_description">All the libraries we use in the application.</string>
+  <string name="use_monet_description">在支持的情况下，使用动态配色。</string>
+  <string name="use_high_contrast_description">深色模式下使用纯黑色。</string>
+  <string name="libraries_description">应用中使用的所有库。</string>
 
   <!-- Dialog Messages -->
-  <string name="dialog_success_title">Success!</string>
-  <string name="dialog_success_text">Your message has been sent successfully!</string>
-  <string name="dialog_error_title">Error!</string>
-  <string name="dialog_error_text">An error occurred while sending your message!</string>
+  <string name="dialog_success_title">成功！</string>
+  <string name="dialog_success_text">你的消息已成功发送！</string>
+  <string name="dialog_error_title">错误！</string>
+  <string name="dialog_error_text">发送消息时出错！</string>
 </resources>
